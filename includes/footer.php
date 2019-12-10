@@ -1,6 +1,6 @@
 </main>
 <footer id="footer">
-    //FOOTER
+
 </footer>
 </div>
 <script src="public/js/manifest.js"></script>

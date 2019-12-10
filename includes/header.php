@@ -12,6 +12,6 @@
 <body>
 <div id="app">
     <header id="header">
-        //NAVBAR
+
     </header>
     <main id="main">
